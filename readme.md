@@ -54,6 +54,7 @@ FeedIterator<IdWithSimilarityScore> queryResultSetIterator =
 ## Next Steps
 
 - [Learn about vector search in Azure Cosmos DB](https://aka.ms/CosmosVectorSearch)
+- [Billion-scale search in under 100ms in Azure Cosmos DB](https://aka.ms/CosmosDB/BillionScaleVectorSearch)
 - [Azure Cosmos DB AI Samples](https://aka.ms/AzureCosmosDB/Gallery/AI)
 - [Try the VectorIndexScenarioSuite code featured in DEM567](https://github.com/AzureCosmosDB/VectorIndexScenarioSuite)
 - [Azure Cosmos DB search announcements at Microsoft Build 2025](https://aka.ms/Build25/CosmosDBFTS)
